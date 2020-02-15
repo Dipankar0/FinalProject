@@ -1,3 +1,5 @@
+This is a web application created with React, Redux, Express, Node, MongoDB.
+
 HBC application run
 
 ==> Clone the  file to your local machine
