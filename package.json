@@ -33,7 +33,7 @@
     "react-file-viewer": "^1.1.0",
     "react-moment": "^0.8.4",
     "tmp": "0.0.33",
-    "validator": "^10.8.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "repository": {
