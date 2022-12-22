@@ -20,7 +20,7 @@
     "crypto": "^1.0.1",
     "express": "^4.16.4",
     "gridfs-stream": "^1.1.1",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.3.6",
     "multer": "^1.4.1",
